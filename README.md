@@ -1,5 +1,5 @@
 # AssaultCube_External
-Basic Assault Cube external cheat in C for the version 1.2.0.2
+Basic Assault Cube external cheat in C for the version 1.2.0.2 with GDI.
 
 # Descrition
 
