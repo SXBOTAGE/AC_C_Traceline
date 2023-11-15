@@ -6,7 +6,7 @@ Basic Assault Cube external cheat in C for the version 1.2.0.2 with GDI.
 External cheat in C that use a injected traceline wrapper to verify if the ennemy is visible with CreateRemoteThread. It will store each entity visibility value in 1 bit making a total of 32 bit. 
 The cheat then read the value and check if the bit is set for the entity specified.
 
-The **rest of the code may no be interesting since it's a basic (?BAD?) coded cheat in few days that do not even use multi-threading**. I just **let the cheat here if someone wanted to use a "traceline"** in a external way.
+The **rest of the code may no be interesting since it's a basic (?BAD?) coded cheat in few days that do not even use multi-threading**. I just **let the cheat here if someone want to use a "traceline"** in a external way.
 
 # Features
 
